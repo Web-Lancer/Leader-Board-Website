@@ -1,0 +1,61 @@
+body {
+    background-color: #f3f1ff;
+}
+
+.navbar {
+    background-color: #562EFF;
+}
+
+.navbar img {
+    width: 40px;
+}
+
+.player img {
+    width: 56px;
+}
+
+main {
+    background-color: #FFFFFF;
+    max-width: 870px;
+    margin-top: 36px !important;
+    margin-bottom: 50px !important;
+    margin: 0 auto;
+    border-radius: 10px;
+
+}
+
+.player {
+    justify-content: center;
+}
+
+.container-fluid {
+    max-width: 870px;
+}
+
+.header {
+    max-height: 50px;
+}
+
+p {
+    font-weight: bold;
+}
+
+.top-blog {}
+
+.top-blog img {
+    width: 177px;
+}
+
+.card-body img {
+    width: 11px;
+    height: 11px;
+}
+
+.clock {
+    display: inline;
+    background-color: #ff000037;
+    width:120px;
+    height: 30px;
+    border-radius: 20px;
+    padding: 10px;
+}
